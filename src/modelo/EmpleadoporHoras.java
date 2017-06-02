@@ -9,7 +9,7 @@ package modelo;
  *
  * @author hp245
  */
-public abstract class EmpleadoporHoras extends Empleado {
+public class EmpleadoporHoras extends Empleado {
     private double sueldo;
     private double horas;
     
