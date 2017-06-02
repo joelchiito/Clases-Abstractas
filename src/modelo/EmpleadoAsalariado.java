@@ -9,7 +9,7 @@ package modelo;
  *
  * @author hp245
  */
-public abstract class EmpleadoAsalariado extends Empleado{
+public class EmpleadoAsalariado extends Empleado{
     private double salarioSemanal;
     
     public EmpleadoAsalariado (String nombre, String apellido, String nss, double salario)
